@@ -1,0 +1,6 @@
+{
+  "name": "NiMAWA",
+  "description": "Nigerian Muslims' Association of Western Australia (NiMAWA) official website - building faith, community, and unity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
